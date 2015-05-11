@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Hello World</name>
+<widget id="com.ylecuyer.carrefourpromo" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Carrefour Promo</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+	    Une application pour connaitre les promos carrefour
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="yoann.lecuyer@gmail.com" href="https://github.com/ylecuyer">
+        Yoann Lecuyer
     </author>
     <content src="index.html" />
     <preference name="permissions" value="none" />
