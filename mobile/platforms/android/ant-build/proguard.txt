@@ -1,3 +1,3 @@
 # view AndroidManifest.xml #generated:6
--keep class com.phonegap.helloworld.CordovaApp { <init>(...); }
+-keep class com.ylecuyer.carrefourpromo.CordovaApp { <init>(...); }
 

@@ -1,2 +1,2 @@
-/home/ylecuyer/CarrefourPromo/platforms/android/ant-build/AndroidManifest.xml : \
-/home/ylecuyer/CarrefourPromo/platforms/android/AndroidManifest.xml \
+/home/ylecuyer/CarrefourPromo/mobile/platforms/android/ant-build/AndroidManifest.xml : \
+/home/ylecuyer/CarrefourPromo/mobile/platforms/android/AndroidManifest.xml \

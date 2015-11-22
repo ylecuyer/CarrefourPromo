@@ -1,0 +1,79 @@
+3270190023814;Yaourt nature brassés CARREFOUR 8X125g origine France
+3245412730535;Mousse au chocolat au lait CARREFOUR 4X60g origine France
+3245412730627;Mousse au chocolat noir CARREFOUR 4X12cl origine France
+3270190204367;Iles flottantes CARREFOUR 4X100g origine France
+3560070354450;Flans nappés de caramel CARREFOUR KIDS 4X100g origine France
+3560070354153;Pomme pocket CARREFOUR KIDS 4X90g origine France
+3245411205621;Fromage frais et mousse nature CARREFOUR 4X100g origine France
+3270190025962;Cocktail multivitaminé CARREFOUR 1L origine France
+3560070475711;Bouteille de lait frais demi-écrémé CARREFOUR 1L TRANSFORME EN FRANCE
+3560070600151;Plaquette beurre doux CARREFOUR 125g ORIGINE France
+3245414187498;Lait écrémé CARREFOUR 1L origine France
+3245414183285;Comté râpé 32% MG sur le produit fini 140g CARREFOUR ORIGINE FRANCE
+3560070247592;Mimolette portion CARREFOUR 23% MG sur le produit fini 290g ORIGINE France
+3560070108558;Tranche de fromage de brebis CARREFOUR, 23% MG sur le produit fini 200g ORIGINE France
+3560070149278;Feta CARREFOUR 24,40% MG sur le produit fini 200g ORIGINE GRECE
+3560070060252;Mozzarella Italia CARREFOUR, 18% MG sur le produit fini 125g ORIGINE Italie
+3560070787005;4 tranches jambon supérieur sans couenne CARREFOUR 160g ORIGINE France
+3270190207290;4 knacks CARREFOUR 140g TRANSFORMÉ EN FRANCE
+3245413488244;Mousse de foie CARREFOUR 2X50g origine France
+3245413857026;Rillettes CARREFOUR 110g TRANSFORMÉ EN France
+3270190023661;Lardons nature CARREFOUR 2X100g origine France
+3270190203445;Mousse de canard au porto CARREFOUR 180g TRANSFORMÉ EN France
+3270190203414;Blanc de poulet CARREFOUR 4 tranches soit 160g TRANSFORME EN FRANCE
+3560070363681;Saucisse sèche recette traditionnelle CARREFOUR 250g ÉLABORÉ EN FRANCE
+3560070719952;Carottes râpées CARREFOUR 200g TRANSFORME EN FRANCE
+3560070365807;Galette garnie jambon emmental CARREFOUR 195g TRANSFORME EN FRANCE
+3560070565627;Sandwich club jambon crudités CARREFOUR 145g transformé en FRANCE
+3270190253112;Tagliatelle carbonara CARREFOUR 300g TRANSFORME EN FRANCE
+3270190204008;Pâte feuilletée roulée pur beurre CARREFOUR 230g TRANSFORME EN FRANCE
+3270190208181;Lardon de saumon fumé CARREFOUR 90g transformé en France
+3270190208211;Grignottes de poulet nature CARREFOUR 250g Transformé en France
+3560070134564;Pizza royale cuite au feu de bois 440g CARREFOUR
+3270190020578;Steaks hachés 5% MG CARREFOUR 4X100g
+3245412733673;Pommes de terre façon sud ouest CARREFOUR 600g
+3245414007413;Lasagnes à la bolognaise CARREFOUR 300g
+3245413162595;Colin d'Alaska sauce bordelaise CARREFOUR 400g
+3270190202769;Riz à la cantonaise CARREFOUR 900g
+3270190207887;Madeleines coquilles CARREFOUR 250g TRANSFORME EN FRANCE
+3560070463800;8 crêpes fourrées au chocolat CARREFOUR 256g Origine FRANCE
+3245412496509;12 briochettes CARREFOUR 480g TRANSFORME EN FRANCE
+3245412589980;34 biscottes croustillantes CARREFOUR 300g
+3270190173113;Tuiles aux amandes CARREFOUR 100g
+3270190173366;Petit beurre CARREFOUR 200g
+3245411756758;Barquettes à la pulpe de fraise CARREFOUR 2X120g
+3560070240258;Tuiles salées CARREFOUR 170g
+3560070223145;Pistaches sans sel CARREFOUR 150g
+3270190152972;Saucisses cocktail nature CARREFOUR 220g
+3245413192257;Dosettes café grand classique CARREFOUR 18X7g
+3560070277315;Café soluble décaféiné CARREFOUR 100g
+3270190008200;Poudre chcolatée instantanée CARREFOUR 450g
+3560070928255;25 sachets infusion verveine menthe CARREFOUR
+3245411157944;Boisson au soja saveur vanille CARREFOUR BIO 1L
+3270190117315;Farine de blé fluide T45 CARREFOUR 1kg
+3245413704238;Blé précuit 10 mn CARREFOUR
+3560070572717;Sauce barbecue CARREFOUR 350ml
+3270190137344;Ketchup CARREFOUR 340g
+3245414659056;Chips à l'ancienne à l'huile de tournesol CARREFOUR 6X30g
+3270190008279;Huile d'olive CARREFOUR 50cl
+3270190189763;Vinaigre balsamique CARREFOUR 50cl
+3270190171720;Desserts pomem banane CARREFOUR 4X100g
+3560070167166;Pâte à atartiner 13% de noisettes CARREFOUR 400g
+3560070323036;Haricots verts extra fins CARREFOUR 220g
+3560070322817;Petits pois carottes extra fins CARREFOUR 265g
+3245412062674;Poulet basquaise et riz CARREFOUR 300g
+3560070478637;Brique pur jus d'orange CARREFOUR 1L
+3560070275328;Pur jus multifruits CARREFOUR 1L
+3270190121930;Sirop de menthe CARREFOUR 1L
+3245414228948;Eau des Alpes CARREFOUR 1,5L
+3270190166894;Crémant d'Alsace Durenmeyer CARREFOUR 75cl
+3270190133544;Pastis de Marseille 45%V CARREFOUR 70cl
+3560070233618;Liquide vaisselle ultra dermo peaux sensibles CARREFOUR 500ml
+3560070134441;Gel nettoyant javel CARREFOUR 1L
+3560070656042;Bougie vanille des iles CARREFOUR
+3560070316991;Etui mini mouchoirs classic CARREFOUR 15X9
+8431876069952;72 lingettes bébé sensitive CARREFOUR
+3560070120963;20 culottes bébé junior 12/18kg CARREFOUR
+3560070625406;Recharge crème de douche douceur lait d'amande NECTAR OF NATURE 250ml
+3560070624836;Shampooing gainant à l'avocat et au karité NECTAR OF NATURE 300ml
+3560070630141;Masque nourrissant à la mangue et beurre de noix NECTAR OF NATURE 300ml

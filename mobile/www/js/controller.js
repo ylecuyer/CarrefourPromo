@@ -4,3 +4,8 @@ CPControllers.controller('HomeCtrl', ['$scope',
 		function ($scope) {
 			$scope.hello = "Hello"
 		}]);
+
+CPControllers.controller('ListingCtrl', ['$scope',
+		function ($scope) {
+			$scope.hello = "Hello"
+		}]);
